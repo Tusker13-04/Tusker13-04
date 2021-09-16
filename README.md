@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning Python 
+- ⚡ To know more about me: <h2> visit  <a href="https://www.technologylabs.study/">technologylabs.study</a> </h2>
+

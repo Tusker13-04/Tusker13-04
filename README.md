@@ -1,6 +1,6 @@
 # Raghav K
 
-Pre-final year Computer Science student at VIT Vellore. I work on machine learning systems
+Final year Computer Science student at VIT Vellore. I work on machine learning systems
 across the full stack, from training large vision models on GPU clusters to deploying
 lightweight models on edge hardware.
 
